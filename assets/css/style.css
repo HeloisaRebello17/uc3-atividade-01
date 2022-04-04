@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+    background-color:darkgrey
+}
+img{
+    width: 100%; /* tenha largura total */
+    height: auto;
+    max-width: 100%;
+}
+.borda{
+    border-width: 5px; 
+    border-color: black;
+    border-style: dashed;
+}
+.container{
+    background-color: cadetblue; /* é a cor de fundo */
+    width: 40%; 
+    margin: 0 auto;
+    padding: 30px;
+}
